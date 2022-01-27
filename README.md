@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
 Doświadczenie zawodowe
 
 Konstruktor 09/2017 - obecnie
-Matusewicz Budowa Maszyn S.A.
-Oddział: Gryfów Śląski
 Przygotowywanie rozwiązań koncepcyjnych na etapie tworzenia oferty
 Projektowanie maszyn, urządzeń zgodnie z wytycznymi klienta oraz normami branży
 Optymalizacja konstrukcji pod kątem poprawy jakości i obniżenia kosztów
@@ -26,26 +24,17 @@ Współpraca z działem logistyki, zakupów, produkcją, warsztatem CNC
 Wizualizacja rozwiązań technicznych
 Rozwój i optymalizacja komponentów od fazy koncepcyjnej do produkcji
 
-Inżynier Konstruktor 04/2017 - 07/2017
-OSA Homelski Zakład Chemiczny
-Oddział: Homel, Białoruś
+Inżynier Konstruktor
 Projektowanie urządzeń do obróbki chemii
 Opracowywanie projektów w SW zgodnie z normami, wykorzystanie standardowych i
 znormalizowanych części i jednostek montażowych
 Sporządzenie dokumentacji technicznej
 Techniczne wsparcie produkcji
-
-
-
 Projektowanie plastikowych elementów nadwozia samochodów
 Projektowanie oprzyrządowania produkcyjnego elementów kompozytowych wnętrz
 traktorów
 Tworzenie program do obróbki na CNC
 Wsparcie produkcji i kontrola na wszystkich etapach cyklu produkcyjnego komponentów
-
-
-
-
 Organizacja badania obiektów
 Doradztwo i dobór rozwiązań dla klientów
 Współpraca z dostawcami
@@ -58,9 +47,6 @@ Planowanie i koordynacja pracy pracowników, kontrola jakości prac
 Prowadzenie negocjacji z przedstawicielami zakładów produkcyjnych
 Opracowywanie metod kontroli technicznej i testy produktów
 Rozwój działań na rzecz osiągnięcia zatwierdzonych celów, zapewnienie realizacji działań
-
-
-
 Przygotowywanie kart do cięcia materiału, specyfikacji
 Wsparcie techniczne produkcji
 Zapewnienie zgodności opracowanych projektów specyfikacji technicznych, norm,
